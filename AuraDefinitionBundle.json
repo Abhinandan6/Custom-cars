@@ -1,0 +1,70 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0055g00000Ip2CdAAJ",
+      "createdByName": "ABHINANDAN C",
+      "createdDate": "2023-12-10T10:39:33.000Z",
+      "fileName": "aura/setStartUrl",
+      "fullName": "setStartUrl",
+      "id": "0Ab5g000005vBIsCAM",
+      "lastModifiedById": "0055g00000Ip2CdAAJ",
+      "lastModifiedByName": "ABHINANDAN C",
+      "lastModifiedDate": "2023-12-10T10:39:33.000Z",
+      "manageableState": "unmanaged",
+      "type": "AuraDefinitionBundle"
+    },
+    {
+      "createdById": "0055g00000Ip2CdAAJ",
+      "createdByName": "ABHINANDAN C",
+      "createdDate": "2023-12-10T10:39:35.000Z",
+      "fileName": "aura/selfRegister",
+      "fullName": "selfRegister",
+      "id": "0Ab5g000005vBIxCAM",
+      "lastModifiedById": "0055g00000Ip2CdAAJ",
+      "lastModifiedByName": "ABHINANDAN C",
+      "lastModifiedDate": "2023-12-10T10:39:35.000Z",
+      "manageableState": "unmanaged",
+      "type": "AuraDefinitionBundle"
+    },
+    {
+      "createdById": "0055g00000Ip2CdAAJ",
+      "createdByName": "ABHINANDAN C",
+      "createdDate": "2023-12-10T10:39:35.000Z",
+      "fileName": "aura/forgotPassword",
+      "fullName": "forgotPassword",
+      "id": "0Ab5g000005vBIyCAM",
+      "lastModifiedById": "0055g00000Ip2CdAAJ",
+      "lastModifiedByName": "ABHINANDAN C",
+      "lastModifiedDate": "2023-12-10T10:39:35.000Z",
+      "manageableState": "unmanaged",
+      "type": "AuraDefinitionBundle"
+    },
+    {
+      "createdById": "0055g00000Ip2CdAAJ",
+      "createdByName": "ABHINANDAN C",
+      "createdDate": "2023-12-10T10:39:33.000Z",
+      "fileName": "aura/loginForm",
+      "fullName": "loginForm",
+      "id": "0Ab5g000005vBIwCAM",
+      "lastModifiedById": "0055g00000Ip2CdAAJ",
+      "lastModifiedByName": "ABHINANDAN C",
+      "lastModifiedDate": "2023-12-10T10:39:33.000Z",
+      "manageableState": "unmanaged",
+      "type": "AuraDefinitionBundle"
+    },
+    {
+      "createdById": "0055g00000Ip2CdAAJ",
+      "createdByName": "ABHINANDAN C",
+      "createdDate": "2023-12-10T10:39:33.000Z",
+      "fileName": "aura/setExpId",
+      "fullName": "setExpId",
+      "id": "0Ab5g000005vBIrCAM",
+      "lastModifiedById": "0055g00000Ip2CdAAJ",
+      "lastModifiedByName": "ABHINANDAN C",
+      "lastModifiedDate": "2023-12-10T10:39:33.000Z",
+      "manageableState": "unmanaged",
+      "type": "AuraDefinitionBundle"
+    }
+  ]
+}

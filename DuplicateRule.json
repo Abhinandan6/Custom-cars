@@ -1,0 +1,44 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0055g00000Ip2CdAAJ",
+      "createdByName": "ABHINANDAN C",
+      "createdDate": "2023-12-02T06:34:00.000Z",
+      "fileName": "duplicateRules/Contact.Standard_Contact_Duplicate_Rule.duplicateRule",
+      "fullName": "Contact.Standard_Contact_Duplicate_Rule",
+      "id": "0Bm5g00000cPvoGCAS",
+      "lastModifiedById": "0055g00000Ip2CdAAJ",
+      "lastModifiedByName": "ABHINANDAN C",
+      "lastModifiedDate": "2023-12-02T06:34:00.000Z",
+      "manageableState": "unmanaged",
+      "type": "DuplicateRule"
+    },
+    {
+      "createdById": "0055g00000Ip2CdAAJ",
+      "createdByName": "ABHINANDAN C",
+      "createdDate": "2023-12-02T06:34:00.000Z",
+      "fileName": "duplicateRules/Account.Standard_Account_Duplicate_Rule.duplicateRule",
+      "fullName": "Account.Standard_Account_Duplicate_Rule",
+      "id": "0Bm5g00000cPvoFCAS",
+      "lastModifiedById": "0055g00000Ip2CdAAJ",
+      "lastModifiedByName": "ABHINANDAN C",
+      "lastModifiedDate": "2023-12-02T06:34:00.000Z",
+      "manageableState": "unmanaged",
+      "type": "DuplicateRule"
+    },
+    {
+      "createdById": "0055g00000Ip2CdAAJ",
+      "createdByName": "ABHINANDAN C",
+      "createdDate": "2023-12-02T06:34:00.000Z",
+      "fileName": "duplicateRules/Lead.Standard_Lead_Duplicate_Rule.duplicateRule",
+      "fullName": "Lead.Standard_Lead_Duplicate_Rule",
+      "id": "0Bm5g00000cPvoHCAS",
+      "lastModifiedById": "0055g00000Ip2CdAAJ",
+      "lastModifiedByName": "ABHINANDAN C",
+      "lastModifiedDate": "2023-12-02T06:34:00.000Z",
+      "manageableState": "unmanaged",
+      "type": "DuplicateRule"
+    }
+  ]
+}

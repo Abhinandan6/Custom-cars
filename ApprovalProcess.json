@@ -1,0 +1,41 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0055g00000Ip2CdAAJ",
+      "createdByName": "ABHINANDAN C",
+      "createdDate": "2023-12-08T14:29:48.000Z",
+      "fileName": "approvalProcesses/Bookings__c.Purchase.approvalProcess",
+      "fullName": "Bookings__c.Purchase",
+      "id": "04a5g000000cwqnAAA",
+      "lastModifiedById": "0055g00000Ip2CdAAJ",
+      "lastModifiedByName": "ABHINANDAN C",
+      "lastModifiedDate": "2023-12-08T14:37:41.000Z",
+      "type": "ApprovalProcess"
+    },
+    {
+      "createdById": "0055g00000Ip2CdAAJ",
+      "createdByName": "ABHINANDAN C",
+      "createdDate": "2023-12-08T12:54:07.000Z",
+      "fileName": "approvalProcesses/Opportunity.Car_Loan.approvalProcess",
+      "fullName": "Opportunity.Car_Loan",
+      "id": "04a5g000000cwqYAAQ",
+      "lastModifiedById": "0055g00000Ip2CdAAJ",
+      "lastModifiedByName": "ABHINANDAN C",
+      "lastModifiedDate": "2023-12-08T14:00:47.000Z",
+      "type": "ApprovalProcess"
+    },
+    {
+      "createdById": "0055g00000Ip2CdAAJ",
+      "createdByName": "ABHINANDAN C",
+      "createdDate": "2023-12-09T06:57:59.000Z",
+      "fileName": "approvalProcesses/Opportunity.opportunity.approvalProcess",
+      "fullName": "Opportunity.opportunity",
+      "id": "04a5g000000cwrbAAA",
+      "lastModifiedById": "0055g00000Ip2CdAAJ",
+      "lastModifiedByName": "ABHINANDAN C",
+      "lastModifiedDate": "2023-12-09T06:59:39.000Z",
+      "type": "ApprovalProcess"
+    }
+  ]
+}

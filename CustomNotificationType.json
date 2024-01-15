@@ -1,0 +1,31 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0055g00000Ip2CdAAJ",
+      "createdByName": "ABHINANDAN C",
+      "createdDate": "2023-12-10T19:42:11.000Z",
+      "fileName": "notificationtypes/ALERT.notiftype",
+      "fullName": "ALERT",
+      "id": "0ML5g000000sdRiGAI",
+      "lastModifiedById": "0055g00000Ip2CdAAJ",
+      "lastModifiedByName": "ABHINANDAN C",
+      "lastModifiedDate": "2023-12-10T19:42:11.000Z",
+      "manageableState": "unmanaged",
+      "type": "CustomNotificationType"
+    },
+    {
+      "createdById": "0055g00000Ip2CdAAJ",
+      "createdByName": "ABHINANDAN C",
+      "createdDate": "2023-12-10T18:42:50.000Z",
+      "fileName": "notificationtypes/auto_notifiction.notiftype",
+      "fullName": "auto_notifiction",
+      "id": "0ML5g000000sdRdGAI",
+      "lastModifiedById": "0055g00000Ip2CdAAJ",
+      "lastModifiedByName": "ABHINANDAN C",
+      "lastModifiedDate": "2023-12-10T18:42:50.000Z",
+      "manageableState": "unmanaged",
+      "type": "CustomNotificationType"
+    }
+  ]
+}

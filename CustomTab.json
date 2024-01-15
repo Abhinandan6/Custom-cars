@@ -1,0 +1,96 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0055g00000Ip2CdAAJ",
+      "createdByName": "ABHINANDAN C",
+      "createdDate": "2023-12-08T14:39:17.000Z",
+      "fileName": "tabs/Book_old_car__c.tab",
+      "fullName": "Book_old_car__c",
+      "id": "01r5g000002AWM5AAO",
+      "lastModifiedById": "0055g00000Ip2CdAAJ",
+      "lastModifiedByName": "ABHINANDAN C",
+      "lastModifiedDate": "2023-12-08T14:39:17.000Z",
+      "manageableState": "unmanaged",
+      "type": "CustomTab"
+    },
+    {
+      "createdById": "0055g00000Ip2CdAAJ",
+      "createdByName": "ABHINANDAN C",
+      "createdDate": "2023-12-03T15:46:28.000Z",
+      "fileName": "tabs/ENQ__c.tab",
+      "fullName": "ENQ__c",
+      "id": "01r5g000002AV7sAAG",
+      "lastModifiedById": "0055g00000Ip2CdAAJ",
+      "lastModifiedByName": "ABHINANDAN C",
+      "lastModifiedDate": "2023-12-03T15:46:28.000Z",
+      "manageableState": "unmanaged",
+      "type": "CustomTab"
+    },
+    {
+      "createdById": "0055g00000Ip2CdAAJ",
+      "createdByName": "ABHINANDAN C",
+      "createdDate": "2023-12-08T14:32:25.000Z",
+      "fileName": "tabs/book_new_car__c.tab",
+      "fullName": "book_new_car__c",
+      "id": "01r5g000002AWM0AAO",
+      "lastModifiedById": "0055g00000Ip2CdAAJ",
+      "lastModifiedByName": "ABHINANDAN C",
+      "lastModifiedDate": "2023-12-08T14:32:25.000Z",
+      "manageableState": "unmanaged",
+      "type": "CustomTab"
+    },
+    {
+      "createdById": "0055g00000Ip2CdAAJ",
+      "createdByName": "ABHINANDAN C",
+      "createdDate": "2023-12-08T16:04:38.000Z",
+      "fileName": "tabs/Issue__c.tab",
+      "fullName": "Issue__c",
+      "id": "01r5g000002AWMyAAO",
+      "lastModifiedById": "0055g00000Ip2CdAAJ",
+      "lastModifiedByName": "ABHINANDAN C",
+      "lastModifiedDate": "2023-12-08T16:04:38.000Z",
+      "manageableState": "unmanaged",
+      "type": "CustomTab"
+    },
+    {
+      "createdById": "0055g00000Ip2CdAAJ",
+      "createdByName": "ABHINANDAN C",
+      "createdDate": "2023-12-10T11:30:29.000Z",
+      "fileName": "tabs/invoice_schuduler__c.tab",
+      "fullName": "invoice_schuduler__c",
+      "id": "01r5g000002AWX8AAO",
+      "lastModifiedById": "0055g00000Ip2CdAAJ",
+      "lastModifiedByName": "ABHINANDAN C",
+      "lastModifiedDate": "2023-12-10T11:30:29.000Z",
+      "manageableState": "unmanaged",
+      "type": "CustomTab"
+    },
+    {
+      "createdById": "0055g00000Ip2CdAAJ",
+      "createdByName": "ABHINANDAN C",
+      "createdDate": "2023-12-07T19:37:44.000Z",
+      "fileName": "tabs/car__c.tab",
+      "fullName": "car__c",
+      "id": "01r5g000002AWFiAAO",
+      "lastModifiedById": "0055g00000Ip2CdAAJ",
+      "lastModifiedByName": "ABHINANDAN C",
+      "lastModifiedDate": "2023-12-07T19:37:44.000Z",
+      "manageableState": "unmanaged",
+      "type": "CustomTab"
+    },
+    {
+      "createdById": "0055g00000Ip2CdAAJ",
+      "createdByName": "ABHINANDAN C",
+      "createdDate": "2023-12-03T16:07:11.000Z",
+      "fileName": "tabs/Bookings__c.tab",
+      "fullName": "Bookings__c",
+      "id": "01r5g000002AVEpAAO",
+      "lastModifiedById": "0055g00000Ip2CdAAJ",
+      "lastModifiedByName": "ABHINANDAN C",
+      "lastModifiedDate": "2023-12-03T16:07:11.000Z",
+      "manageableState": "unmanaged",
+      "type": "CustomTab"
+    }
+  ]
+}

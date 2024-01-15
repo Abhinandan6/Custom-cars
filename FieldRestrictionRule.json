@@ -1,0 +1,31 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0055g00000JXoCTAA1",
+      "createdByName": "Automated Process",
+      "createdDate": "2023-12-10T10:38:59.000Z",
+      "fileName": "fieldRestrictionRules/Rule36253f6668e6c3e5796afc036dbf943d0eaccd8910197cc084c1c5c4d968b583.rule",
+      "fullName": "Rule36253f6668e6c3e5796afc036dbf943d0eaccd8910197cc084c1c5c4d968b583",
+      "id": "0lr5g000000CeUtAAK",
+      "lastModifiedById": "0055g00000JXoCTAA1",
+      "lastModifiedByName": "Automated Process",
+      "lastModifiedDate": "2023-12-10T10:38:59.000Z",
+      "manageableState": "unmanaged",
+      "type": "FieldRestrictionRule"
+    },
+    {
+      "createdById": "0055g00000JXoCTAA1",
+      "createdByName": "Automated Process",
+      "createdDate": "2023-12-10T10:39:00.000Z",
+      "fileName": "fieldRestrictionRules/Ruledb25a0266e52f1790685cbc2bc13852d5d10711af15ce4b14bbd4ddd920f0738.rule",
+      "fullName": "Ruledb25a0266e52f1790685cbc2bc13852d5d10711af15ce4b14bbd4ddd920f0738",
+      "id": "0lr5g000000CeUuAAK",
+      "lastModifiedById": "0055g00000JXoCTAA1",
+      "lastModifiedByName": "Automated Process",
+      "lastModifiedDate": "2023-12-10T10:39:00.000Z",
+      "manageableState": "unmanaged",
+      "type": "FieldRestrictionRule"
+    }
+  ]
+}

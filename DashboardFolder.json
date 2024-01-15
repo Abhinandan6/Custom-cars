@@ -1,0 +1,18 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0055g00000JXoCTAA1",
+      "createdByName": "Automated Process",
+      "createdDate": "2023-12-10T10:38:58.000Z",
+      "fileName": "dashboards/prm_channel_dashboard_folder",
+      "fullName": "prm_channel_dashboard_folder",
+      "id": "00l5g000003lnR0AAI",
+      "lastModifiedById": "0055g00000JXoCTAA1",
+      "lastModifiedByName": "Automated Process",
+      "lastModifiedDate": "2023-12-10T10:38:58.000Z",
+      "manageableState": "unmanaged",
+      "type": "DashboardFolder"
+    }
+  ]
+}

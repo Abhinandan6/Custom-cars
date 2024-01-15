@@ -1,0 +1,18 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0055g00000JXoCTAA1",
+      "createdByName": "Automated Process",
+      "createdDate": "2023-12-10T10:38:59.000Z",
+      "fileName": "dashboards/prm_channel_dashboard_folder/prm_channel_sales_dashboard.dashboard",
+      "fullName": "prm_channel_dashboard_folder/prm_channel_sales_dashboard",
+      "id": "01Z5g000000eRhaEAE",
+      "lastModifiedById": "0055g00000JXoCTAA1",
+      "lastModifiedByName": "Automated Process",
+      "lastModifiedDate": "2023-12-10T11:24:03.000Z",
+      "manageableState": "unmanaged",
+      "type": "Dashboard"
+    }
+  ]
+}

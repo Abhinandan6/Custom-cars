@@ -1,0 +1,41 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0055g00000Ip2CdAAJ",
+      "createdByName": "ABHINANDAN C",
+      "createdDate": "2023-12-10T10:43:06.000Z",
+      "fileName": "userCriteria/CustomCars.Partner_and_Customer_members.userCriteria",
+      "fullName": "CustomCars.Partner_and_Customer_members",
+      "id": "0LV5g000000Mz6IGAS",
+      "lastModifiedById": "0055g00000Ip2CdAAJ",
+      "lastModifiedByName": "ABHINANDAN C",
+      "lastModifiedDate": "2023-12-10T10:43:06.000Z",
+      "type": "UserCriteria"
+    },
+    {
+      "createdById": "0055g00000Ip2CdAAJ",
+      "createdByName": "ABHINANDAN C",
+      "createdDate": "2023-12-10T10:43:06.000Z",
+      "fileName": "userCriteria/CustomCars.Members_without_contribution.userCriteria",
+      "fullName": "CustomCars.Members_without_contribution",
+      "id": "0LV5g000000Mz6HGAS",
+      "lastModifiedById": "0055g00000Ip2CdAAJ",
+      "lastModifiedByName": "ABHINANDAN C",
+      "lastModifiedDate": "2023-12-10T10:43:06.000Z",
+      "type": "UserCriteria"
+    },
+    {
+      "createdById": "0055g00000Ip2CdAAJ",
+      "createdByName": "ABHINANDAN C",
+      "createdDate": "2023-12-10T10:43:06.000Z",
+      "fileName": "userCriteria/CustomCars.Customer_Members.userCriteria",
+      "fullName": "CustomCars.Customer_Members",
+      "id": "0LV5g000000Mz6GGAS",
+      "lastModifiedById": "0055g00000Ip2CdAAJ",
+      "lastModifiedByName": "ABHINANDAN C",
+      "lastModifiedDate": "2023-12-10T10:43:06.000Z",
+      "type": "UserCriteria"
+    }
+  ]
+}

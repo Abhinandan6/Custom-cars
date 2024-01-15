@@ -1,0 +1,17 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0055g00000JXoCTAA1",
+      "createdByName": "Automated Process",
+      "createdDate": "2023-12-02T06:37:13.000Z",
+      "fileName": "entitlementProcesses/standard case.entitlementProcess",
+      "fullName": "standard case",
+      "id": "5525g0000070EtxAAE",
+      "lastModifiedById": "0055g00000JXoCTAA1",
+      "lastModifiedByName": "Automated Process",
+      "lastModifiedDate": "2023-12-02T06:37:13.000Z",
+      "type": "EntitlementProcess"
+    }
+  ]
+}

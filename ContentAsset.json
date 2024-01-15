@@ -1,0 +1,31 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0055g00000Ip2CdAAJ",
+      "createdByName": "ABHINANDAN C",
+      "createdDate": "2023-12-06T15:20:35.000Z",
+      "fileName": "contentassets/Brown_Red_White_Retro_Custom_Car_Ga1.asset",
+      "fullName": "Brown_Red_White_Retro_Custom_Car_Ga1",
+      "id": "03S5g000001dQULEA2",
+      "lastModifiedById": "0055g00000Ip2CdAAJ",
+      "lastModifiedByName": "ABHINANDAN C",
+      "lastModifiedDate": "2023-12-06T15:20:35.000Z",
+      "manageableState": "unmanaged",
+      "type": "ContentAsset"
+    },
+    {
+      "createdById": "0055g00000Ip2CdAAJ",
+      "createdByName": "ABHINANDAN C",
+      "createdDate": "2023-12-10T11:36:17.000Z",
+      "fileName": "contentassets/app_logo.asset",
+      "fullName": "app_logo",
+      "id": "03S5g000001dRBTEA2",
+      "lastModifiedById": "0055g00000Ip2CdAAJ",
+      "lastModifiedByName": "ABHINANDAN C",
+      "lastModifiedDate": "2023-12-10T11:36:17.000Z",
+      "manageableState": "unmanaged",
+      "type": "ContentAsset"
+    }
+  ]
+}
